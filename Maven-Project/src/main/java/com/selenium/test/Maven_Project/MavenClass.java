@@ -16,7 +16,7 @@ public class MavenClass {
 		driver.findElement(By.id("LoginForm_username")).sendKeys("shahistap");
 		driver.findElement(By.id("LoginForm_password")).sendKeys("shaMG@29");
 		//first commit
-
+		//MindHacks
+		//Catch me
 	}
-
 }
